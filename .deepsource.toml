@@ -14,3 +14,7 @@ enabled = true
 
 [analyzers.meta]
 environment = ["nodejs"]
+
+[[analyzers]]
+name = "sca"
+enabled = true
